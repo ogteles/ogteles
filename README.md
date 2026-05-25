@@ -1,4 +1,4 @@
-                   # Hi, I'm Teles 👋
+# Hi, I'm Teles 👋
 
 I'm a programming student currently learning and improving my skills with:
 
