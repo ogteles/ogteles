@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Teles 
 
-<!--
-**ogteles/ogteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programming student currently learning and improving my skills with:
 
-Here are some ideas to get you started:
+- C
+- Python
+- Algorithms
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm focused on building a strong programming foundation through practice, problem-solving, and small projects.
+
+Currently studying:
+- Logic and algorithms
+- Loops and conditionals
+- Functions
+- Basic data structures
+
+## Goals
+
+- Improve my problem-solving skills
+- Build practical projects
+- Learn backend development
+- Share my learning journey
+
+## Technologies I'm Learning
+
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+
+---
+
+> “Learning one step at a time.”
