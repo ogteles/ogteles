@@ -1,4 +1,4 @@
-# Hi, I'm Teles 👋
+                   # Hi, I'm Teles 👋
 
 I'm a programming student currently learning and improving my skills with:
 
@@ -26,10 +26,9 @@ Currently studying:
 
 ## Technologies I'm Learning
 
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github" />
+</p>
 
 ---
 
