@@ -27,7 +27,7 @@ Currently studying:
 ## Technologies I'm Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,HTML,CSS,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,github" />
 </p>
 
 ---
